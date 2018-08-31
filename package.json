@@ -1,0 +1,22 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvreeman/unitTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvreeman/unitTesting/issues"
+  },
+  "homepage": "https://github.com/bvreeman/unitTesting#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
